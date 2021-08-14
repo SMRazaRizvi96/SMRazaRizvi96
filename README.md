@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning, and Mixed Reality.
+- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning, Computer Vision, and Mixed Reality.
 - 🌱 I’m currently using the Robot Operating System (ROS) to design the software architecture of my Robotic Systems.
-- 👯 I’m looking to collaborate on projects related to Robotics.
+- ⚡ I have worked with DJI Tello Drone, Hololens 2, Miro Robot, Pepper Robot, TurtleBots.
+- 🐍 I am profecient in Programming languages such as Python, C, C++, C#, MATLAB, and SQL.
+
 - 📫 How to reach me: Email: smrazarizvi96@gmail.com
 
 Looking for a full time position as a Robotics Engineer or related domains.
