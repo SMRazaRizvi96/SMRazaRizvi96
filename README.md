@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Email: smrazarizvi96@gmail.com
 
+Have a look at [My CV](https://drive.google.com/file/d/1MD6sEGmF-n6-VnZQh7hbQWAeQ-zuXIiR/view?usp=sharing)
+
 Looking for a full time position as a Robotics Engineer or related domains.
