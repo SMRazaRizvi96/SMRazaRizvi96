@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning, and Mixed Reality.
+- 🌱 I’m currently using the Robot Operating System (ROS) to design the software architecture of my Robotic Systems.
+- 👯 I’m looking to collaborate on projects related to Robotics.
+- 📫 How to reach me: Email: smrazarizvi96@gmail.com
+
+Looking for a full time position as a Robotics Engineer or related domains.
