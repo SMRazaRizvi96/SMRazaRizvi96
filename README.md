@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 🐍 I am profecient in Programming languages such as Python, C, C++, C#, MATLAB, and SQL.
 
 - 📫 How to reach me: Email: smrazarizvi96@gmail.com
-
-Have a look at [My CV](https://drive.google.com/file/d/1nHoF6e8-0rb3xihaFZu-cofH0heAZPYD/view?usp=sharing)
