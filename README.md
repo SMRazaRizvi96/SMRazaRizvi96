@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning, Computer Vision, and Mixed Reality.
-- 🌱 I’m currently using the Robot Operating System (ROS) to design the software architecture of my Robotic Systems.
+- 🔭 I’m currently working in the area of Robotics, specially in the domain of Mobile Robots, UAVs, Autonomous Navigation, SLAM, Motion Planning, Computer Vision, and Mixed Reality.
+- 🌱 I’m currently using the Robot Operating System (ROS 1 & 2) to design the software architecture of my Robotic Systems.
 - ⚡ I have worked with DJI Tello Drone, Hololens 2, Miro Robot, Pepper Robot, TurtleBots.
 - 🐍 I am profecient in Programming languages such as Python, C, C++, C#, MATLAB, and SQL.
 
